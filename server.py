@@ -1,5 +1,3 @@
-endpoint = 'http://f68d6e9a-f6fd-4dcb-baa9-fc4fdc008258.southeastasia.azurecontainer.io/score' #Replace with your endpoint
-key = 'iQysus9wjVUuZ6LmqZbByVoguChxIJRZ' #Replace with your key
 
 import urllib.request
 import json
