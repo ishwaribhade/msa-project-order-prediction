@@ -1,4 +1,4 @@
-
+#endpoint and key details written in setup file hidden from github as includes secret key
 import urllib.request
 import json
 import os
